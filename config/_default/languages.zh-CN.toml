@@ -1,12 +1,12 @@
-disabled = true
-languageCode = "en"
-languageName = "English"
+disabled = false
+languageCode = "zh-CN"
+languageName = "中文"
 weight = 1
-title = "Blowfish"
+title = "让那过曝的一瞥从此处呼啸而去"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "中文"
+  isoCode = "zh-CN"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
